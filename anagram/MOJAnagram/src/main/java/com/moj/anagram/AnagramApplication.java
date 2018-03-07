@@ -9,4 +9,5 @@ public class AnagramApplication {
 	public static void main(String[] args) throws InterruptedException {
 		SpringApplication.run(AnagramApplication.class, args);
 	}
+	
 }
